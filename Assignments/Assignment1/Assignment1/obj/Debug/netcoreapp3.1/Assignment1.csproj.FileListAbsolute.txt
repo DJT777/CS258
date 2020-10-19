@@ -1,0 +1,13 @@
+/home/dylan/Documents/CS258/Assignment1/Assignment1/obj/Debug/netcoreapp3.1/Assignment1.csprojAssemblyReference.cache
+/home/dylan/Documents/CS258/Assignment1/Assignment1/obj/Debug/netcoreapp3.1/Assignment1.AssemblyInfoInputs.cache
+/home/dylan/Documents/CS258/Assignment1/Assignment1/obj/Debug/netcoreapp3.1/Assignment1.AssemblyInfo.cs
+/home/dylan/Documents/CS258/Assignment1/Assignment1/obj/Debug/netcoreapp3.1/Assignment1.csproj.CoreCompileInputs.cache
+/home/dylan/Documents/CS258/Assignment1/Assignment1/bin/Debug/netcoreapp3.1/Assignment1
+/home/dylan/Documents/CS258/Assignment1/Assignment1/bin/Debug/netcoreapp3.1/Assignment1.deps.json
+/home/dylan/Documents/CS258/Assignment1/Assignment1/bin/Debug/netcoreapp3.1/Assignment1.runtimeconfig.json
+/home/dylan/Documents/CS258/Assignment1/Assignment1/bin/Debug/netcoreapp3.1/Assignment1.runtimeconfig.dev.json
+/home/dylan/Documents/CS258/Assignment1/Assignment1/bin/Debug/netcoreapp3.1/Assignment1.dll
+/home/dylan/Documents/CS258/Assignment1/Assignment1/bin/Debug/netcoreapp3.1/Assignment1.pdb
+/home/dylan/Documents/CS258/Assignment1/Assignment1/obj/Debug/netcoreapp3.1/Assignment1.dll
+/home/dylan/Documents/CS258/Assignment1/Assignment1/obj/Debug/netcoreapp3.1/Assignment1.pdb
+/home/dylan/Documents/CS258/Assignment1/Assignment1/obj/Debug/netcoreapp3.1/Assignment1.genruntimeconfig.cache

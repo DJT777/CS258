@@ -1,0 +1,13 @@
+/home/dylan/Documents/CS258/EnterChoice/EnterChoice/obj/Debug/netcoreapp3.1/EnterChoice.csprojAssemblyReference.cache
+/home/dylan/Documents/CS258/EnterChoice/EnterChoice/obj/Debug/netcoreapp3.1/EnterChoice.AssemblyInfoInputs.cache
+/home/dylan/Documents/CS258/EnterChoice/EnterChoice/obj/Debug/netcoreapp3.1/EnterChoice.AssemblyInfo.cs
+/home/dylan/Documents/CS258/EnterChoice/EnterChoice/obj/Debug/netcoreapp3.1/EnterChoice.csproj.CoreCompileInputs.cache
+/home/dylan/Documents/CS258/EnterChoice/EnterChoice/bin/Debug/netcoreapp3.1/EnterChoice
+/home/dylan/Documents/CS258/EnterChoice/EnterChoice/bin/Debug/netcoreapp3.1/EnterChoice.deps.json
+/home/dylan/Documents/CS258/EnterChoice/EnterChoice/bin/Debug/netcoreapp3.1/EnterChoice.runtimeconfig.json
+/home/dylan/Documents/CS258/EnterChoice/EnterChoice/bin/Debug/netcoreapp3.1/EnterChoice.runtimeconfig.dev.json
+/home/dylan/Documents/CS258/EnterChoice/EnterChoice/bin/Debug/netcoreapp3.1/EnterChoice.dll
+/home/dylan/Documents/CS258/EnterChoice/EnterChoice/bin/Debug/netcoreapp3.1/EnterChoice.pdb
+/home/dylan/Documents/CS258/EnterChoice/EnterChoice/obj/Debug/netcoreapp3.1/EnterChoice.dll
+/home/dylan/Documents/CS258/EnterChoice/EnterChoice/obj/Debug/netcoreapp3.1/EnterChoice.pdb
+/home/dylan/Documents/CS258/EnterChoice/EnterChoice/obj/Debug/netcoreapp3.1/EnterChoice.genruntimeconfig.cache

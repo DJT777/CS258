@@ -1,0 +1,13 @@
+/home/dylan/Documents/CS258/HelloApp/HelloApp/bin/Debug/netcoreapp3.1/HelloApp
+/home/dylan/Documents/CS258/HelloApp/HelloApp/bin/Debug/netcoreapp3.1/HelloApp.deps.json
+/home/dylan/Documents/CS258/HelloApp/HelloApp/bin/Debug/netcoreapp3.1/HelloApp.runtimeconfig.json
+/home/dylan/Documents/CS258/HelloApp/HelloApp/bin/Debug/netcoreapp3.1/HelloApp.runtimeconfig.dev.json
+/home/dylan/Documents/CS258/HelloApp/HelloApp/bin/Debug/netcoreapp3.1/HelloApp.dll
+/home/dylan/Documents/CS258/HelloApp/HelloApp/bin/Debug/netcoreapp3.1/HelloApp.pdb
+/home/dylan/Documents/CS258/HelloApp/HelloApp/obj/Debug/netcoreapp3.1/HelloApp.csprojAssemblyReference.cache
+/home/dylan/Documents/CS258/HelloApp/HelloApp/obj/Debug/netcoreapp3.1/HelloApp.AssemblyInfoInputs.cache
+/home/dylan/Documents/CS258/HelloApp/HelloApp/obj/Debug/netcoreapp3.1/HelloApp.AssemblyInfo.cs
+/home/dylan/Documents/CS258/HelloApp/HelloApp/obj/Debug/netcoreapp3.1/HelloApp.csproj.CoreCompileInputs.cache
+/home/dylan/Documents/CS258/HelloApp/HelloApp/obj/Debug/netcoreapp3.1/HelloApp.dll
+/home/dylan/Documents/CS258/HelloApp/HelloApp/obj/Debug/netcoreapp3.1/HelloApp.pdb
+/home/dylan/Documents/CS258/HelloApp/HelloApp/obj/Debug/netcoreapp3.1/HelloApp.genruntimeconfig.cache

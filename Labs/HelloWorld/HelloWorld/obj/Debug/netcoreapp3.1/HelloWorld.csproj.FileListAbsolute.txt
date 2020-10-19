@@ -1,0 +1,13 @@
+/home/dylan/Documents/CS258/HelloWorld/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld
+/home/dylan/Documents/CS258/HelloWorld/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.deps.json
+/home/dylan/Documents/CS258/HelloWorld/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.runtimeconfig.json
+/home/dylan/Documents/CS258/HelloWorld/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.runtimeconfig.dev.json
+/home/dylan/Documents/CS258/HelloWorld/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.dll
+/home/dylan/Documents/CS258/HelloWorld/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.pdb
+/home/dylan/Documents/CS258/HelloWorld/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.csprojAssemblyReference.cache
+/home/dylan/Documents/CS258/HelloWorld/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.AssemblyInfoInputs.cache
+/home/dylan/Documents/CS258/HelloWorld/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.AssemblyInfo.cs
+/home/dylan/Documents/CS258/HelloWorld/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.csproj.CoreCompileInputs.cache
+/home/dylan/Documents/CS258/HelloWorld/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.dll
+/home/dylan/Documents/CS258/HelloWorld/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.pdb
+/home/dylan/Documents/CS258/HelloWorld/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.genruntimeconfig.cache
